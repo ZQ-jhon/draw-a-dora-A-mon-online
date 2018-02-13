@@ -189,7 +189,7 @@ var controller = setInterval(function(){
     if(n>str.length){window.clearInterval(controller);document.getElementById('h1').innerHTML = '把鼠标移上去试试看？'}
     
     console.log(n)
-},10);
+},30);
 
 
 
