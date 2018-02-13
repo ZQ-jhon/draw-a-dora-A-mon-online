@@ -10,10 +10,6 @@
 <br>
 <br>
 <br>
-素材：https://codepen.io/ksksoft/pen/CLuwA?q=dora&limit=all&type=type-pens
-<br>
-<br>
-<br>
 相似项目：https://github.com/ZQ-jhon/resume
 <br>
 <br>
@@ -23,11 +19,6 @@
 ## Use javascript code to make a dynamic Doraemon ##
 
 Preview：https://zq-jhon.github.io/draw-a-dora-A-mon-online/
-<br>
-<br>
-<br>
-
-SourceMaterial：https://codepen.io/ksksoft/pen/CLuwA?q=dora&limit=all&type=type-pens
 <br>
 <br>
 <br>
