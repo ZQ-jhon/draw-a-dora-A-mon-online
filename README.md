@@ -19,7 +19,8 @@
 <br>
 <br>
 <hr>
-## Use javascript code to make a  'dynamic dora A mon' ##
+
+## Use javascript code to make a dynamic Doraemon ##
 
 Preview：https://zq-jhon.github.io/draw-a-dora-A-mon-online/
 <br>
